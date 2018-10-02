@@ -1,0 +1,27 @@
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16250" NEWID="930">
+<DATE> 3-MAR-1987 06:07:48.55</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0859&#31;reute
+u f BC-MOBIL-PLAN-TO-OPEN-PE   03-03 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOBIL PLAN TO OPEN PEKING OFFICE, CHINA DAILY SAYS</TITLE>
+<DATELINE>    PEKING, March 3 - </DATELINE><BODY>Mobil Corp &lt;MOB.N> of the U.S. Plans to
+open an office in Peking to develop oil exploration
+opportunities in China.
+    It quoted Mobil president Richard Tucker, currently in
+Peking, as saying he is optimistic about investment prospects
+ and that Peking will continue to encourage foreign
+private businesses to invest here.
+    It said Mobil bought 73 mln dlrs of crude oil and oil
+products from China in 1986 and sold it lubricant and
+fertiliser, but gave no more details.
+ REUTER
+&#3;</BODY></TEXT>
+</REUTERS>
